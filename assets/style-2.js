@@ -14,7 +14,7 @@ const highlightcolor = "#111";
 // Body properties
 const bodyfontweight = 300;
 const bodyfontsize = "12pt";
-const backgroundcolor = "#799496"; //#fff
+const backgroundcolor = "#fff"; //#fff
 
 // Link properties
 const acolor = accentcolor;
